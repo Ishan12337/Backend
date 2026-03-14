@@ -61,7 +61,7 @@ backend-project/
 
 Clone the repository
 
-git clone https://github.com/yourusername/backend-auth-project.git
+git clone https://github.com/Ishan12337/Backend.git
 
 Move into the folder
 
