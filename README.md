@@ -144,4 +144,3 @@ Final Year B.Tech Student
 Technocrats Institute of Technology, Bhopal
 
 Interested in Full Stack Development (MERN Stack)
-
