@@ -136,6 +136,7 @@ POST /api/auth/register
 
 ---
 
+
 ## Author
 
 Ishan Tiwari
